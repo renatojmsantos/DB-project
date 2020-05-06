@@ -1,0 +1,3 @@
+ - conceder dados privados
+ - receber mensagens
+ - publicidade
